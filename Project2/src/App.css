@@ -2,3 +2,56 @@
   margin: 0%;
   padding: 0%;
 }
+.image{
+  height: 300px;
+  display: flex;
+  margin: auto;
+}
+/* .tours{
+  
+} */
+article{
+  margin: 20px;
+}
+section{
+  width: 60%;
+  /* border: 2px solid black; */
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+.div1{
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+.head{
+  font-weight: bold;
+  font-size: 40px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-top: 15px;
+}
+p{
+
+  margin: auto;
+}
+.btn2{
+  border: none;
+  background-color: transparent;
+  font-weight: 700;
+  color: blue;
+  cursor: pointer; 
+}
+.btn{
+  display: flex;
+  padding: 5px;
+  margin: 10px auto;
+  cursor: pointer;
+}
+.art{
+  margin: 20px;
+  padding: 15px;
+  border: 2px solid black;
+}
