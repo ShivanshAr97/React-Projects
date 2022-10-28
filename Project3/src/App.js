@@ -1,10 +1,10 @@
-import React from 'react'
-import './App.css';
+import React, { useState } from 'react'
+import Review from './Review';
 
 function App() {
   return (
     <>
-    hello
+    <Review/>
     </>
   );
 }
