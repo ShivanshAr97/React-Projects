@@ -2,3 +2,51 @@
   margin: 0%;
   padding: 0%;
 }
+h1{
+  display: flex;
+  justify-content: center;
+  margin: 15px 0;
+}
+.div1{
+  display: flex;
+  justify-content: center;
+}
+.div3{
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 15px;
+}
+.span1{
+  font-weight: 700;
+  font-size: 22px;
+}
+.span2{
+  font-size: 22px;
+}
+.span3{
+  margin:-5px 10px;
+  font-size: 18px;
+}
+.span4{
+  margin: 10px;  
+}
+.span5{
+  font-size: 18px;
+  margin: 7px 0;
+}
+.div2{
+  width: 40%;
+  display: flex;
+  margin: 20px auto;
+  flex-direction: column;
+}
+
+.btns{
+  padding: 8px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+  border: none;
+  background-color: blue;
+  color: white;
+}
