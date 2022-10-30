@@ -8,4 +8,6 @@ This repository has the projects made in the 15 projects FreeCodeCamp video.
 - Menu
 - Tabs
 - Slider
-- Lorem generator
+- Lorem text generator
+- Color generator
+- Task manager
